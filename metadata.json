@@ -1,0 +1,8 @@
+{
+  "name": "Turbo Traffic Highway",
+  "description": "A fast-paced 2D highway driving game where you dodge chaotic traffic, collect coins, ignite nitro boosts, and survive at ever-increasing speeds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
